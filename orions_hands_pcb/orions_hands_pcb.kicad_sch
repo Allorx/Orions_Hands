@@ -1178,8 +1178,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 38ff9953-932a-4b1b-909a-deec67ca725f)
   )
-  (text "TODO: \n- power switch?\n- spi out to male pin headers\n- rest of keyboard\n- split out rest of pins to male headers with spi/i2c separate?\n- caps lock led\n- CHG/PGOOD\n- ceramic caps"
-    (at 78.74 34.29 0)
+  (text "TODO: \n- power switch?\n- spi out to male pin headers\n	for display / think about Chip Select \n	can make this more effective with 2 spi headers using same pins\n- rest of keyboard (pull up resistors + split space)\n- split out rest of pins to male headers with spi/i2c separate?\n	so can add dw1000? or UART?\n- caps lock led\n- CHG/PGOOD\n- ceramic caps"
+    (at 80.01 38.1 0)
     (effects (font (size 1.27 1.27) (color 255 134 20 1)) (justify right bottom))
     (uuid 47cc02c9-dcc2-437d-ac15-7e2189b28bf4)
   )
