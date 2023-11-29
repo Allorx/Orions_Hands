@@ -483,6 +483,10 @@
     [
       "88707ea6-38a4-4604-b44d-dbe4cb6dea53",
       "RP2040"
+    ],
+    [
+      "9f26f866-c180-46a4-a629-3b3db3f412aa",
+      "power_management"
     ]
   ],
   "text_variables": {}
