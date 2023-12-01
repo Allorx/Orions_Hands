@@ -1,8 +1,13 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid f006e143-bd55-4b2f-b530-01650705e175)
+  (uuid cc79c786-f870-46fb-82fb-957e3b9e1749)
 
   (paper "A4")
+
+  (title_block
+    (title "Orions Hands")
+    (rev "2")
+  )
 
   (lib_symbols
     (symbol "Battery_Management:BQ24074RGT" (in_bom yes) (on_board yes)
